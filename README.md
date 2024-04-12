@@ -48,7 +48,7 @@ Before running this Flutter application, ensure you have the following prerequis
  
 
 ```bash
-git clone https://github.com/your-username/Flutter-Login-using-Firebase.git
+git clone https://github.com/blzjn/Flutter-Login
 ```
 
  
